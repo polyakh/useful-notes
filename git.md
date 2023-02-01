@@ -1,0 +1,1 @@
+> [How to Delete Commits From Remote in Git](https://hackernoon.com/how-to-delete-commits-from-remote-in-git)
