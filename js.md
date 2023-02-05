@@ -1,0 +1,1 @@
+- [x] [Why using object spread with reduce probably a bad idea](https://prateeksurana.me/blog/why-using-object-spread-with-reduce-bad-idea/)
