@@ -1,0 +1,1 @@
+### Session-based and token-based authentication depends on the specific use case and the architecture of the system
